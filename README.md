@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm Shubhankar Patel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhankar45" alt="shubhankar45" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Smart Hospital**
 
 - 🌱 I’m currently learning **Power Bi,Tableau,Panda ,AI/ML**
