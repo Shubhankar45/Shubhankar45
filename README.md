@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhankar45" alt="shubhankar45" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shubhankar45/Shubhankar45/assets/99344696/62ab78b5-9c1b-4646-b0ac-9cf6a189f5b5)
+">
 - 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **AI/ML**
