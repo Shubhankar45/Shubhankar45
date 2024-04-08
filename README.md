@@ -5,7 +5,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhankar45" alt="shubhankar45" /></a> </p>
+<p align="left"> <a href="![image](https://github.com/Shubhankar45/Shubhankar45/assets/99344696/299ccaa2-2a88-4334-8ea5-04fb4e686441)
+" alt="shubhankar45" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="![image](https://github.com/Shubhankar45/Shubhankar45/assets/99344696/62ab78b5-9c1b-4646-b0ac-9cf6a189f5b5)
 ">
