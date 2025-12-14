@@ -47,7 +47,15 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
        alt="nextjs" width="40" height="40"/>
-</a>  </p>
+</a> 
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg"
+       alt="langchain" width="40" height="40"/>
+</a>
+
+
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhankar45&show_icons=true&locale=en" alt="shubhankar45" /></p>
 
